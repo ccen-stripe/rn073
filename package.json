@@ -10,8 +10,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "@intercom/intercom-react-native": "6.3.0",
     "@stripe/stripe-identity-react-native": "0.2.1",
-    "intercom-react-native": "^18.0.1",
     "react": "18.2.0",
     "react-native": "0.73.2"
   },
